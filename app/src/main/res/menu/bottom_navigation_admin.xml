@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home_ad"
+        android:icon="@drawable/home_button"
+        android:title="@string/home" />
+
+
+    <item
+        android:id="@+id/nav_riwayat_ad"
+        android:icon="@drawable/riwayat_button"
+        android:title="@string/riwayat" />
+
+</menu>

@@ -1,0 +1,2 @@
+rootProject.name = "MyGatoel"
+include ':app'

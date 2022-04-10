@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94229951807",
+    "project_id": "mygatoeltesting-a2955",
+    "storage_bucket": "mygatoeltesting-a2955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94229951807:android:2a409e68acb730836b4f8a",
+        "android_client_info": {
+          "package_name": "com.example.mygatoel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94229951807-j624pqt83977i9jkqeb2ennp3e21ul7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgAyvMqXglPJDMjWydMz16g90JIvQIXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94229951807-j624pqt83977i9jkqeb2ennp3e21ul7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

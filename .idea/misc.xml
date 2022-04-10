@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/border_informasi.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/highlight_button_nav.xml" value="0.20277777777777778" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/home_button.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/ic_baseline_brightness_1_24.xml" value="0.1981981981981982" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/ic_baseline_more_time_24.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/profile_button.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/riwayat_button.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/round_container.xml" value="0.2301801801801802" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/drawable/round_container3.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout-v21/beranda_admin.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout-v21/beranda_pasien.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.136" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_detail_pendaftaran.xml" value="0.4" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_edit_dokter.xml" value="0.176" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_jadwal_dokter.xml" value="0.4" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_pendaftaran_online.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_status_succes.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/activity_tambah_dokter.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/beranda_admin.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/beranda_pasien.xml" value="0.2" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/cr_list_dokter.xml" value="0.1" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/cr_list_jadwal_dokter.xml" value="0.4" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/cr_list_pendaftaran.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/cr_list_pendaftaran_pasien.xml" value="0.176" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/custom_layout.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/daftar_hari.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/detail_pendaftaran_ad.xml" value="0.2" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/detail_pendaftaran_ps.xml" value="0.2" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/fragment_dasboard_ad.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/fragment_riwayat.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/fragment_riwayat_ad.xml" value="0.536" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/jadwal_praktik_dokter.xml" value="0.152" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/list_item_poli.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/main_admin.xml" value="0.2" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/main_pasien.xml" value="0.1" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/pendaftaran_online.xml" value="0.128" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/profile.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/progressbar_dialog.xml" value="0.152" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/register.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/riwayat_pendaftaran.xml" value="0.176" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/riwayat_pendaftaran_pasien.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/splash_screen.xml" value="0.152" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/splashscreen.xml" value="0.16" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/status_pendaftaran.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/tambah_dokter.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/toolbar_pendaftaran_online.xml" value="0.1" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/topbar.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/tutorial_pendaftaran_online.xml" value="0.2" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/ubah_informasi_akun.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/layout/ubah_informasi_dokter.xml" value="0.2" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/menu-v26/bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/menu-v26/bottom_navigation_admin.xml" value="0.25" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/menu/bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/menu/bottom_navigation_admin.xml" value="0.264" />
+        <entry key="..\:/Users/kings/AndroidStudioProjects/MyGatoel/app/src/main/res/menu/popup_menu.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
